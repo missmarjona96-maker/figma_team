@@ -2,6 +2,7 @@ import '../Hero/Hero.css'
 
 function Hero() {
   return (
+    
     <div className='hero_body'>
       <h1 className='title'>Design Faster & Better</h1>
       <p className='hero_p_one' >Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris.</p>
