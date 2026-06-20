@@ -1,0 +1,41 @@
+.title {
+  text-align: center;
+  color: aliceblue;
+}
+
+.hero_p_one {
+  text-align: center;
+  color:aliceblue;
+}
+
+.hero_p_two {
+  text-align: center;
+  color:aliceblue;
+}
+
+.hero_btn_one {
+  text-align: center;
+  background: rgb(217, 92, 255);
+  color: aliceblue;
+  border: black 1px solid;
+  border-radius: 4px;
+}
+
+.hero_btn_two {
+  text-align: center;
+  color: rgb(217, 92, 255);
+  background: aliceblue;
+  border: black 1px solid;
+  border-radius: 4px;
+}
+
+.hero_body {
+  background: rgb(23, 21, 46);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
